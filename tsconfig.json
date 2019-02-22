@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
-    "rootDir": ".",
-    "outDir": "lib",
+    "outDir": "./lib",
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "declaration": true,
@@ -14,7 +13,8 @@
     "pretty": true,
     "sourceMap": true,
     "strict": true,
-    "target": "es2017"
+    "target": "es2017",
+    "experimentalDecorators": true
   },
   "include": [
     "src/**/*.ts",
