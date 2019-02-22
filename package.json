@@ -1,0 +1,25 @@
+{
+  "name": "gicwebclient",
+  "version": "0.0.1",
+  "description": "gic server web client ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e111077/GICWebClient.git"
+  },
+  "author": "me@elliottmarquez.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/e111077/GICWebClient/issues"
+  },
+  "homepage": "https://github.com/e111077/GICWebClient#readme",
+  "dependencies": {
+    "lit-element": "^2.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
